@@ -88,7 +88,7 @@
   components:
   - type: StorageFill
     contents:
-    - id: VehicleSPPTankP17702
+    - id: VehicleUPPTankP17702
       amount: 1
 
 - type: entity
