@@ -42984,8 +42984,8 @@
       color: '#132019'
       shape: CylinderY
 - type: cmu3DModel
-  id: CMU3DReduxVehicleUPPTankP17702Mounted
-  label: VehicleUPPTankP17702Mounted
+  id: CMU3DReduxVehicleSPPTankP17702Mounted
+  label: VehicleSPPTankP17702Mounted
   status: draft
   sourcePrototypes: []
   parts:
@@ -43017,12 +43017,12 @@
   placement: floor
   groundOffset: 0, 0
   description: Source-referenced solid draft; inferred depth and hidden surfaces. See SOURCES_REDUX_COVERAGE.md.
-  referencePrototype: VehicleUPPTankP17702
+  referencePrototype: VehicleSPPTankP17702
   referenceRsi: _RMC14/Structures/Vehicles/spptank.rsi
   referenceState: p17702_0
   useEntityRotation: true
   vehicleTurretPrototypes:
-  - VehicleUPPTankP17702
+  - VehicleSPPTankP17702
   vehicleLayers:
   - rsi: _RMC14/Structures/Vehicles/spptank.rsi
     state: p17702_0

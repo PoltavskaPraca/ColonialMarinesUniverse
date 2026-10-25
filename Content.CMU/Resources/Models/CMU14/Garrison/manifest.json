@@ -20316,9 +20316,9 @@
       "sourcePrototypes": []
     },
     {
-      "id": "CMU3DReduxVehicleUPPTankP17702Mounted",
-      "label": "VehicleUPPTankP17702Mounted",
-      "file": "CMU3DReduxVehicleUPPTankP17702Mounted.glb",
+      "id": "CMU3DReduxVehicleSPPTankP17702Mounted",
+      "label": "VehicleSPPTankP17702Mounted",
+      "file": "CMU3DReduxVehicleSPPTankP17702Mounted.glb",
       "status": "draft",
       "parts": 5,
       "triangles": 216,

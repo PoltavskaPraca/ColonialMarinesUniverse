@@ -1355,13 +1355,13 @@
       ]
     },
     {
-      "id": "CMU3DReduxVehicleUPPTankP17702Mounted",
+      "id": "CMU3DReduxVehicleSPPTankP17702Mounted",
       "sourcePrototypes": [],
       "parts": 5,
       "triangles": 216,
       "vehicleLayerStates": 1,
       "mountedTurrets": [
-        "VehicleUPPTankP17702"
+        "VehicleSPPTankP17702"
       ]
     },
     {
